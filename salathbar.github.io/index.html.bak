@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>Modern Trends in Structures forming Systems</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-15">
+  <meta name="keywords"
+ content="pia, PIA, Mathematics Center Heidelberg, Mathematik">
+  <meta name="description" content="">
+  <meta http-equiv="Content-Language" content="de">
+  <meta name="author" content="Laura Croitoru">
+  <link rel="stylesheet" type="text/css" href="Non_HTML/style.css">
+</head>
+<body>
+<div align="center">
+	<div id="container">
+		<div id="kopf">
+			<table cellpadding="11px" cellspacing="1.5px" width="90%">
+				<TR>
+					<TD>
+						<img src="Non_HTML/MATCH_Logo.png" width="100" height="100" alt="MATCHLogo" >
+					</TD>
+					<td style="font-size:1.6em;line-height:1.2em;color:#900; text-align:center">
+						Modern Trends in Structures Forming Systems</span><br><div style="font-size: 14px; text-align:center; color:black">Heidelberg, August 7&ndash;11, 2017
+						</div>
+					</td>
+					<td>
+						<img src="Non_HTML/Siegel_Uni_small.png" width="170" height="95" alt="UniLogo">
+					</td>
+				</tr>
+				
+			</table>
+				
+			
+			
+			<div align="center"><ul class="navbar">
+				<li><a href="index.html" class="nav"><span style="color:#4D4D4D">Home</span></a></li>
+				<li><a href="speakers.html" class="nav">Speakers</a></li>
+				<li><a href="http://www.match.uni-heidelberg.de/PIA/participants.php" class="nav">Participants</a></li>
+				<li><a href="schedule.html" class="nav">Schedule</a></li>
+				<li><a href="location.html" class="nav">Location</a></li>
+				<li><a href="contact.html" class="nav">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	
+		<div class="rightcontainer">
+			<div class="rightbox">
+				<a href="registration.php" title="Registration">Registration</a>
+				
+			</div>
+		<!--	<div class="rightbox firstbox">
+				
+				<a href="accommodation.html">Accommodation</a>
+				<a href="http://www.match.uni-heidelberg.de/PIA/Non_HTML/PIA2010GeneralInformation.pdf">General Information</a>
+				
+				<a href="http://www.heidelberg-marketing.de/content/e566/index_eng.html">Heidelberg</a>
+				
+			</div> -->
+				
+			<div class="rightbox linkbox">
+				
+			<!--	<a href="photo.html" title="Conference photo">Conference Photo</span></a> -->
+				<a href="poster.html" title="Poster">Poster</a>
+				<a href="http://www.match.uni-heidelberg.de/" title="MATCH"  target="_blank">MATCH</a>
+				<a href="https://typo.iwr.uni-heidelberg.de/home/" title="IWR" target="_blank">IWR</a>
+			</div>
+		</div>
+		<div id = "content">
+				<p> This workshop will be devoted to analytical and numerical methods for systems exhibiting formation of complex patterns. Such systems may arise from problems in materials science, biological problems or engineering.
+				</p>
+				<p>
+ The goal of the meeting is to bring together a broad spectrum of specialists working on different aspects of this field, including different methods for the analysis of the underlying system as well as mathematical modeling and numerical simulation. The conference should be an opportunity to exchange ideas and methods and identify challenging problems. The focus will be in identifying and understanding mechanisms of pattern formation, derivation of the effective macroscopic behaviour and emergence of singularities.
+				</p> 
+					
+		</div>
+			
+		
+		<div class="footer">
+			<div class="right">
+				<p>Webmaster: <a href="mailto:pschneider@mathi.uni-heidelberg.de">P. Schneider</a></p>
+			</div>
+			<p>Organizers: 
+				<a href="https://sites.google.com/site/homepagelaurentbetermin/">Laurent B&eacutetermin</a>, <a href="http://www.math.uni-heidelberg.de/amk/">Hans Kn&uumlpfer</a>, <a href="http://www.iwr.uni-heidelberg.de/groups/amj/People/Anna.Marciniak/index.html">Anna Marciniak-Czochra</a>, <a href="https://www.uni-due.de/mathematik/agpozzi/reiter/">Philipp Reiter</a>
+			</p>
+		</div>
+		 
+	</div>
+</div>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5550735; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="c74a6d5b"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="myspace hit counters"
+href="http://www.statcounter.com/myspace/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5550735/0/c74a6d5b/1/"
+alt="myspace hit counters" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+</body>
+</html>

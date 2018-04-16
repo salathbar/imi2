@@ -1,0 +1,187 @@
+body {
+	margin:0; 
+	padding:0; 
+	font-family:helvetica, arial, sans-serif; 
+	color:#000000; 
+	background-image:url("./bgblau3.jpg");
+	background-repeat: repeat;
+	text-align:center;
+}
+
+#container
+{
+	font-family: helvetica,arial,sans-serif;
+	font-weight: normal; 
+	font-size: 12pt;
+
+	background-image:url("./bg.png");
+	border-width:1px;
+	border-style:solid;
+	border-color:#000000;
+
+	width:80%;
+	margin-top:5%;
+	margin-bottom:3%;	
+}
+
+#kopf
+{
+	width:100%;	
+}
+
+ul.navbar 
+{
+	list-style-type:none; 
+	display:block; 
+	width:85%; 
+	line-height:0.6em;
+	font-size: 12pt;
+	text-align:center;
+	
+	float:right;
+	
+	border-width:.1em; 
+	border-style:groove;
+	text-align:center;
+	margin-right:5%;
+
+}
+
+ul.navbar li
+{
+	display:inline;
+	text-align:center;
+}
+
+a.nav:link{
+display:block; float:left; width:12%; padding:0.8em 0.8em 0.8em 0.6em; margin:0em;
+text-decoration:none;  color:#900;
+}
+
+a.nav:visited {
+display:block; float:left; width:12%; padding:0.8em 0.8em 0.8em 0.6em; margin:0em;
+text-decoration:none;  color:#900;}
+
+a.nav:hover {
+display:block; float:left; width:12%; padding:0.8em 0.8em 0.8em 0.6em; margin:0em; 
+text-decoration:none; background-color:#70BDFF; color:#900;}
+
+a.nav:active {
+display:block; float:left; width:12%; padding:0.8em 0.8em 0.8em 0.6em; margin:0em; 
+text-decoration:underline; color:#900;background-color:#70BDFF;
+}
+
+a.nav:focus {
+display:block; float:left; width:12%; padding:0.8em 0.8em 0.8em 0.6em; margin:0em; 
+text-decoration:underline; background-color:#70BDFF; color:#900;
+}
+
+.footer 
+{
+	font-size:10pt;
+	/*margin-top:2%;*/ 
+	padding:.3%; 
+	border-top:1px solid #999999;
+	width:89%; 
+	text-align:left; 
+	clear:both;
+}
+
+.footer .right 
+{
+	float:right; 
+	clear:right; 
+	text-align:right;
+}
+
+
+#content
+{
+	display:block;
+	font-size:medium;
+	text-align:left;
+	padding:0.1em 0 1% 6%;
+	clear:left;
+}
+
+a:link, a:visited 
+{
+	color: #900;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a.anker:hover {
+        text-decoration: none;
+}
+
+a:active {
+color:#6AB527; text-decoration:underline;}
+
+.rightcontainer { font-family: helvetica,arial,sans-serif;
+	font-weight: normal; 
+	font-size: 12pt;
+float:right; clear:both; width:21%; margin:0 4% 0 0; padding:0em;}
+
+.rightbox 
+{
+	margin:0.5em; 
+	padding:0.5em; 
+	border:1px;
+	border-style:groove; 
+	text-align:left;
+}
+
+.linkbox a {display:block;}
+
+.firstbox a {display:block;}
+
+table.schedule td {
+	border-width: 1px 1px 1px 1px;
+	padding: 2px 2px 2px 2px;
+	border-style: solid solid solid solid;
+	border-color: black black black black;
+	-moz-border-radius: ;
+}
+h1 {
+	font-size: 2em;
+	line-height: 1.2em;
+	color: #900;file:///afs/mathi.uni-heidelberg.de/projects/pia2010/www/Non_HTML/style.css
+	font-weight: normal;
+	margin: 0px 30px 10px 10px;
+	padding: 5px;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 1.2em;
+	color: #333;
+	font-weight: normal;
+	margin: 20px 0px 10px -1px;	
+}
+
+h3 {
+	font-size: 1.2em;
+	line-height: 1.0em;
+	color: #333;
+	font-weight: bold;
+	margin: 20px 0px 10px -1px;	
+}
+
+h4 {
+	font-size: 1.0em;
+	line-height: 0.9em;
+	color: #333;
+	font-weight: bold;
+	margin: 15px 0px 8px -1px;	
+}
+
+h5 {
+	font-size: 0.9em;
+	line-height: 0.8em;
+	color: #333;
+	font-weight: bold;
+	margin: 15px 0px 8px -1px;
+        font-style: italic;
+}

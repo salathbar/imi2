@@ -1,0 +1,141 @@
+body {
+margin:0; padding:0; font-family:verdana, arial, sans-serif; font-size:80%; color:#000000; text-align:center;
+background-color:#CCCCCC;}
+
+p {
+margin:0.2em 0 1.2em 0; padding:0.3em;}
+
+td {font-family:verdana, arial, sans-serif;
+	font-size:80%;
+}
+
+h1 {
+padding:0; margin:0;font-size:250%; font-weight:normal; font-style:italic; 
+color:#6AB527; font-family:"Trebuchet MS", verdana, arial, sans-serif;}
+
+h1_klein { 
+padding:0; margin:0;font-size:100%; font-weight:normal; font-style:italic; 
+color:#6AB527; font-family:"Trebuchet MS", verdana, arial, sans-serif;}
+
+h2 {
+background-color:#CCCCCC; color:#2A3360; font-size:100%; font-weight:normal; margin:0.2em; padding:0; 
+font-style:italic; font-family:"Trebuchet MS", verdana, arial, sans-serif;}
+
+div {
+margin:0; padding:0; display:block;}
+
+a:link, a:visited {
+color:#6AB527; text-decoration:underline;}
+a:hover {
+color:#000000; text-decoration:none;}
+a:active {
+color:#6AB527; text-decoration:underline;}
+
+
+
+.container {
+background-color:#FFFFFF; margin:4em auto 0 auto; padding:0; width:65%;}
+
+.titleblock {
+padding:2em; margin:0; text-align:left;
+background-image:url('leaf.jpg'); background-repeat:no-repeat; background-position: right center;}
+
+.titleblock p {
+text-indent:4em; color:#000000;}
+
+
+
+ul.navbar {
+list-style-type:none; float:left; display:block; width:100%; line-height:1.5em; 
+clear:both; margin:0; padding:0; background-color:#999999;}
+
+ul.navbar li {
+display:inline;}
+
+a.nav:link, a.nav:visited {
+display:block; float:left; width:13.9%; padding:1.2em 0 1.2em 0; margin:0; 
+text-decoration:none; background-color:#999999; color:#FFFFFF;}
+
+a.nav:hover {
+display:block; float:left; width:13.9%; padding:1.2em 0 1.2em 0; margin:0; 
+text-decoration:none; background-color:#6AB527; color:#FFFFFF;}
+
+a.nav:active {
+display:block; float:left; width:13.9%; padding:1.2em 0 1.2em 0; margin:0; 
+text-decoration:none; background-color:#000000; color:#FFFFFF;
+}
+
+
+
+.rightcontainer {
+float:right; clear:both; width:13em; margin:1em 0 0 0; padding:0;}
+
+.rightbox {
+margin:0.5em; padding:0.3em; border:1px solid #999999; text-align:center;}
+
+.rightcontainer h2 {
+text-align:left; padding:0 0 0 1.5em;}
+
+.linkbox a {display:block;}
+
+
+
+.content {
+clear:left; text-align:left; margin:1.2em 13.5em 0 0; padding:1em 1ex 1em 1.5ex;}
+
+.content h2 {text-indent:3em;}
+
+
+
+.footer {
+color:#666666; font-size:75%; margin:2.5em 0.2em 0.5em 0.5em; padding:0.8em; 
+border-top:1px solid #999999; text-align:left; clear:both;}
+
+.footer .right {
+float:right; clear:right; text-align:right;}
+
+#highlight {
+	color:#6AB527;
+}
+
+#schedule { 
+	border: thin solid black; 
+}
+
+#organizers {
+	border: 0px none;
+	font-family:verdana, arial, sans-serif;
+	font-size:80%
+}
+
+#contactform{
+	border: 0px none;
+}
+
+#contactform td{
+	padding: 5px;
+}
+
+#schedule td{
+	border: thin solid black;
+	border-collapse: collapse; 
+	padding: 10px;
+	font-family:verdana, arial, sans-serif;
+	font-size:80%;
+}
+
+#organizers td{
+	border:0px none; 
+	padding: 10px
+}
+
+form{
+	font-family:verdana, arial, sans-serif; font-size:80%; 		
+}
+
+.footer p {margin:0;}
+
+#human {
+visibility:hidden;
+display:none;
+}
